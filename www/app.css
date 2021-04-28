@@ -1,0 +1,19 @@
+/* CSC132 - Final Project - Owen O'Connor */
+
+body {
+  background-color: #465860;
+}
+
+h2 {
+  text-align: center;
+  letter-spacing: 3px;
+  margin: 10px 10px 10px 10px;
+}
+
+a:hover {
+  opacity: 0.5;
+}
+
+.shiny-plot-output {
+  color: white;
+}
